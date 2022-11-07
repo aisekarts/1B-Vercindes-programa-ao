@@ -1,23 +1,30 @@
 body {
-	background: #CCCCCC
+	background-color: #ff006a;
 }
 
-#banner {
-	width: 100%;
-}
 
-h1 {
-	text-align: center
-}
-
-p {
+hl{
+	color: aliceblue;
 	text-align: center;
+	font-size: 2cm;
+}
+h2{
+	   color: #ffee00;
+font-size: 1cm;
 }
 
-#missao {
-	font-size: 20px
-}
+#imagem{
+	weidth: 40px;
+	height: 15px;
+	border:3px solid black
 
-em strong {
-	color: #FF0000;
+}
+.itens{
+	  font-style: normal;
+	  font-size: 1%;
+	  text-align: center;
+}
+	text-align: center
+#imagem2{
+	  widht:50
 }
